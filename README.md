@@ -1,4 +1,4 @@
-## **Python libraries for GIS and Jupyter notebook as a mapping application.** for WA Women in GIS and Technology.
+## **Python libraries for GIS and Jupyter notebook as a mapping application** for WA Women in GIS and Technology - March 2019.
 
 ### Data Sources
 
